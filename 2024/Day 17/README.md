@@ -1,2 +1,2 @@
-# --- Day 16: Reindeer Maze ---
+# --- Day 17: Chronospatial Computer ---
 ![](.img/image.png)
